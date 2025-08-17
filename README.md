@@ -7,9 +7,9 @@ The output will be like this: https://github.com/AbdelrahmanSherif-00000001/Pyth
 <br>
 what is needed to run and work:
 install matplotlib, pandas, numpy as next: 
-  pip install <library name> <br>
+  pip install "library name" <br>
 to run it : 
-  python <file name>.py <br>
+  python "filename".py <br>
 
 future work: 
 add evaluation method to measure accuracy 
